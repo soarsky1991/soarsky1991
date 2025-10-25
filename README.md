@@ -38,4 +38,4 @@ I am actively seeking a PhD position in Germany to research **high-density, low-
 ### 📫 How to Reach Me
 
 *   **Email:** [mahaochen2018@hotmail.com](mailto:mahaochen2018@hotmail.com)
-*   **LinkedIn:** [www.linkedin.com/in/hm-1b4b11120]
+*   **LinkedIn:** [www.linkedin.com/in/haochenma-packaging/]
