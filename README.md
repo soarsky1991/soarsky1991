@@ -4,14 +4,7 @@ I am an experienced Materials and Semiconductor Packaging Engineer with a Master
 
 My passion lies in solving complex, multi-disciplinary engineering challenges at the intersection of materials, process, and device performance. I am now eager to apply my industrial expertise to academic research.
 
-### 🎯 Research Interests & PhD Goal
 
-I am actively seeking a PhD position in Germany to research **high-density, low-loss advanced packaging technologies for co-packaged optics (CPO) and silicon photonics**. My interests include:
-
-*   Photonics-Electronics Co-Packaging (e.g., CPO)
-*   3D/2.5D Integration & Through-Silicon Via (TSV) Technology
-*   Thermal Management and Signal Integrity for High-Speed Optical Modules
-*   Novel Materials and Processes for Optoelectronic Packaging
 
 ---
 
