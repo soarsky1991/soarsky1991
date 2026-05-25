@@ -1,34 +1,47 @@
-# Hi there, I'm Haochen Ma (马浩宸) 👋
+# Haochen Ma | Agent-Native Tool Builder
 
-I am an experienced Materials and Semiconductor Packaging Engineer with a Master's degree in Materials Science from **Harbin Institute of Technology (哈尔滨工业大学)**. My career has provided me with end-to-end experience, from fundamental materials analysis (SEM, TEM) to leading R&D in advanced packaging technologies like 2.5D TSV.
+I build small, practical AI agent tools from real GitHub demand signals.
 
-My passion lies in solving complex, multi-disciplinary engineering challenges at the intersection of materials, process, and device performance. I am now eager to apply my industrial expertise to academic research.
+My current public line is simple: scan what developers are already asking for, turn the evidence into a build brief, then ship narrow tools that make agent workflows easier to use.
 
+[![Flagship: skill-radar](https://img.shields.io/badge/flagship-skill--radar-blue)](https://github.com/soarsky1991/skill-radar)
+[![Focus: AI Agents](https://img.shields.io/badge/focus-AI%20agents-0A66C2)](https://github.com/soarsky1991/skill-radar)
+[![Reports](https://img.shields.io/badge/reports-daily%20radar-2F855A)](https://github.com/soarsky1991/skill-radar/blob/main/reports/latest.md)
 
+## What I Am Building In Public
 
----
+| Project | What it does | Why follow |
+|---|---|---|
+| [Agent Skill Radar](https://github.com/soarsky1991/skill-radar) | Daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native developer tools. | Follow the repo if you want evidence-backed signals for what agent tools are worth building next. |
 
-### 🛠️ Core Competencies & Skills
+Latest public evidence: [skill-radar report](https://github.com/soarsky1991/skill-radar/blob/main/reports/latest.md)
 
-#### 🔬 Materials Analysis & Characterization
-*   **Microscopy:** Scanning Electron Microscopy (SEM/EDS), Transmission Electron Microscopy (TEM), Atomic Force Microscopy (AFM), Metallographic Microscope
-*   **Spectroscopy:** X-ray Diffraction/Fluorescence (XRD/XRF), Infrared/Ultraviolet Spectroscopy (IR/UV)
-*   **Thermal Analysis:** Thermogravimetric Analysis/Differential Scanning Calorimetry (TGA/DSC)
-*   **Other:** Laser Particle Size Analyzer, Universal Testing Machine, RoHS Compliance Testing
+## My Operating Loop
 
-#### 🔩 Semiconductor Process & Packaging
-*   **Advanced Packaging:** 2.5D/3D Integration, Through-Silicon Via (TSV) Etching (Deep Si Etching - Bosch Process), PECVD (SiO₂/Si₃N₄)
-*   **Assembly & Test:** Die Bonding, Wire Bonding, Optical Alignment, Wafer Thinning, CMP, Chip Performance Testing (CrystalDiskMark, H2testw), Reliability Testing (High/Low-Temp Cycling, Burn-in, Data Retention)
-*   **Process Control:** Quality Control (QC), Failure Analysis (FA), Statistical Process Control (SPC)
+1. Track public GitHub signals around AI agents, MCP, prompt systems, context tools, and developer automation.
+2. Score opportunities by demand, freshness, extensibility, creator fit, novelty, and saturation.
+3. Publish the report so the reasoning is visible.
+4. Build the smallest useful companion tool when a signal repeats.
 
-#### 💻 Programming & Software
-*   **Simulation & Design:** Lumerical, COMSOL Multiphysics, Ansys, AutoCAD
-*   **Data Analysis & Scripting:** Python (with Pandas, NumPy), MATLAB
-*   **Productivity:** LaTeX, Microsoft Office Suite, ERP Systems
+## Why This Angle
 
----
+My background is materials and semiconductor packaging engineering, where useful work depends on evidence, process control, failure analysis, and repeatable decisions. I am applying that same operating style to AI-native software:
 
-### 📫 How to Reach Me
+- observe the system;
+- measure the signal;
+- isolate the failure mode;
+- ship a small fix;
+- repeat in public.
 
-*   **Email:** [mahaochen2018@hotmail.com](mailto:mahaochen2018@hotmail.com)
-*   **LinkedIn:** [www.linkedin.com/in/haochenma-packaging/]
+## Current Focus Areas
+
+- AI agent skills and skill compatibility.
+- MCP servers, config quality, and security checks.
+- Agent-native CLIs with clean JSON workflows.
+- Context engineering, memory, and documentation systems.
+- Public build logs that turn research into reusable tools.
+
+## Contact
+
+- Email: [mahaochen2018@hotmail.com](mailto:mahaochen2018@hotmail.com)
+- LinkedIn: [haochenma-packaging](https://www.linkedin.com/in/haochenma-packaging/)
