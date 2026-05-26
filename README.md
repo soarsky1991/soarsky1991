@@ -1,12 +1,16 @@
 # Haochen Ma | Agent-Native Tool Builder
 
-[中文](#中文) | [English](#english)
+<p align="center">
+Languages: <a href="#zh-cn">简体中文</a> · <a href="#english">English</a>
+</p>
 
 [![Flagship: skill-radar](https://img.shields.io/badge/flagship-skill--radar-blue)](https://github.com/soarsky1991/skill-radar)
 [![Focus: AI Agents](https://img.shields.io/badge/focus-AI%20agents-0A66C2)](https://github.com/soarsky1991/skill-radar)
 [![Reports](https://img.shields.io/badge/reports-daily%20radar-2F855A)](https://github.com/soarsky1991/skill-radar/blob/main/reports/latest.md)
 
-## 中文
+<a id="zh-cn"></a>
+
+## 简体中文
 
 我用真实 GitHub 需求信号，构建面向 AI Agent 工作流的小而实用的工具。
 
@@ -48,6 +52,8 @@
 
 - Email: [mahaochen2018@hotmail.com](mailto:mahaochen2018@hotmail.com)
 - LinkedIn: [haochenma-packaging](https://www.linkedin.com/in/haochenma-packaging/)
+
+<a id="english"></a>
 
 ## English
 
