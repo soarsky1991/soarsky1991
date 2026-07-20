@@ -7,6 +7,7 @@ Languages: <a href="#zh-cn">简体中文</a> · <a href="#english">English</a>
 [![Flagship: skill-radar](https://img.shields.io/badge/flagship-skill--radar-blue)](https://github.com/soarsky1991/skill-radar)
 [![Focus: AI Agents](https://img.shields.io/badge/focus-AI%20agents-0A66C2)](https://github.com/soarsky1991/skill-radar)
 [![Reports](https://img.shields.io/badge/reports-daily%20radar-2F855A)](https://github.com/soarsky1991/skill-radar/blob/main/reports/latest.md)
+[![X](https://img.shields.io/badge/X-@chenAIpickgold-000000?logo=x&logoColor=white)](https://x.com/chenAIpickgold)
 
 <a id="zh-cn"></a>
 
@@ -20,7 +21,10 @@ Languages: <a href="#zh-cn">简体中文</a> · <a href="#english">English</a>
 
 | 项目 | 做什么 | 为什么值得关注 |
 |---|---|---|
-| [Agent Skill Radar](https://github.com/soarsky1991/skill-radar) | 每日扫描 AI agent skills、MCP servers、prompts、agent-native developer tools 的 GitHub 需求信号。 | 如果你想判断下一个 AI Agent 工具、内容选题或开源项目该做什么，这个仓库提供可复用的证据链。 |
+| [Agent Skill Radar](https://github.com/soarsky1991/skill-radar) ![stars](https://img.shields.io/github/stars/soarsky1991/skill-radar?style=flat-square&label=) | 每日扫描 AI agent skills、MCP servers、prompts、agent-native developer tools 的 GitHub 需求信号。 | 如果你想判断下一个 AI Agent 工具、内容选题或开源项目该做什么，这个仓库提供可复用的证据链。 |
+| [Agent Ops Playbook](https://github.com/soarsky1991/agent-ops-playbook) ![stars](https://img.shields.io/github/stars/soarsky1991/agent-ops-playbook?style=flat-square&label=) | 多智能体编排的工程纪律：协调者/执行者契约、账本纪律、验收者模式、升级梯、循环模式。 | 从一套真实在跑的编排系统蒸馏，每章都写明"何时不适用"——不是提示词技巧集。 |
+| [budget-guard](https://github.com/soarsky1991/budget-guard) ![stars](https://img.shields.io/github/stars/soarsky1991/budget-guard?style=flat-square&label=) | 任意按量计费 API 的本地配额守门器：月度周期、软/硬预算、离线账本、fail-closed 保险丝。 | 自主 agent 跑起来最先失控的是账单；这是我自用的那道闸。 |
+| [aipickgold-web](https://github.com/soarsky1991/aipickgold-web) | 面向海外市场的小体量网页游戏，线上：[play.aipickgold.com](https://play.aipickgold.com)。 | 同一套证据驱动方法用在游戏出海上的公开实践。 |
 
 最新公开证据：[skill-radar report](https://github.com/soarsky1991/skill-radar/blob/main/reports/latest.md)
 
@@ -50,6 +54,7 @@ Languages: <a href="#zh-cn">简体中文</a> · <a href="#english">English</a>
 
 ### 联系
 
+- X: [@chenAIpickgold](https://x.com/chenAIpickgold)（每日一签：把公开 GitHub 过一遍，只留值得学的那条）
 - Email: [mahaochen2018@hotmail.com](mailto:mahaochen2018@hotmail.com)
 - LinkedIn: [haochenma-packaging](https://www.linkedin.com/in/haochenma-packaging/)
 
@@ -65,7 +70,10 @@ My public line is simple: scan what developers are already asking for, turn the 
 
 | Project | What it does | Why follow |
 |---|---|---|
-| [Agent Skill Radar](https://github.com/soarsky1991/skill-radar) | Daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native developer tools. | Follow the repo if you want evidence-backed signals for what agent tools, content angles, or open-source projects are worth building next. |
+| [Agent Skill Radar](https://github.com/soarsky1991/skill-radar) ![stars](https://img.shields.io/github/stars/soarsky1991/skill-radar?style=flat-square&label=) | Daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native developer tools. | Follow the repo if you want evidence-backed signals for what agent tools, content angles, or open-source projects are worth building next. |
+| [Agent Ops Playbook](https://github.com/soarsky1991/agent-ops-playbook) ![stars](https://img.shields.io/github/stars/soarsky1991/agent-ops-playbook?style=flat-square&label=) | Engineering discipline for multi-agent orchestration: coordinator/worker contracts, ledger discipline, the verifier pattern, escalation ladders, loop patterns. | Distilled from a system that actually runs; every chapter states when *not* to apply it. Not a prompt-trick collection. |
+| [budget-guard](https://github.com/soarsky1991/budget-guard) ![stars](https://img.shields.io/github/stars/soarsky1991/budget-guard?style=flat-square&label=) | A local quota gate for any metered API: monthly cycles, soft/hard budgets, an offline ledger, and a fail-closed fuse. | Autonomous agents blow the bill before they blow anything else. This is the gate I run on my own. |
+| [aipickgold-web](https://github.com/soarsky1991/aipickgold-web) | Small web games built for overseas markets — live at [play.aipickgold.com](https://play.aipickgold.com). | The same evidence-driven method, applied in public to game distribution. |
 
 Latest public evidence: [skill-radar report](https://github.com/soarsky1991/skill-radar/blob/main/reports/latest.md)
 
@@ -95,5 +103,6 @@ My background is materials and semiconductor packaging engineering, where useful
 
 ### Contact
 
+- X: [@chenAIpickgold](https://x.com/chenAIpickgold) — a daily pick from the public GitHub firehose.
 - Email: [mahaochen2018@hotmail.com](mailto:mahaochen2018@hotmail.com)
 - LinkedIn: [haochenma-packaging](https://www.linkedin.com/in/haochenma-packaging/)
